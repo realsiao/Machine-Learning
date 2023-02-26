@@ -1,5 +1,5 @@
 #判断肿瘤是良性的还是恶性的，通过从sklearn中导入威斯康星乳腺肿瘤数据集，训练朴素贝叶斯模型，根据病人信息，
-#预测其肿瘤是良性还是恶性，即0或者1。
+#预测其肿瘤是良性还是恶性，即0或者1
 
 #导入数据集拆分工具
 from sklearn.model_selection import train_test_split
